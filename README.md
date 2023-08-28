@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ananya13V
 - 👀 I’m interested in building a strong network and learning the nuances of codes
 - 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on Java/C projects
+- 💞️ I’m looking to collaborate on Java/Python and AI/ML projects
 - 📫 How to reach me : Via Github or LinkedIn!
 
 <!---
